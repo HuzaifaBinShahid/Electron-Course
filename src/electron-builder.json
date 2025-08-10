@@ -1,0 +1,16 @@
+{
+    "appId": "com.huzaifa.electron-course",
+    "files": [
+        "dist-electron",
+        "dist-react"
+    ],
+    "mac": {
+        "target": "dmg"
+    },
+    "window": {
+        "target": [
+            "portable",
+            "msi"
+        ]
+    }
+}
